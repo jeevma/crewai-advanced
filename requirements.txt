@@ -2,4 +2,10 @@ crewai
 crewai-tools
 mem0ai
 langchain-google-genai
+<<<<<<< HEAD
 jupyter
+=======
+jupyter
+google-generativeai
+docling
+>>>>>>> 235ec5ea2171da4d85efd941d385bf8eddf36aeb
